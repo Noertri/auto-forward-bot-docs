@@ -1,4 +1,4 @@
-# auto-forwards-bot
+# auto-forward-bot
 Bot telegram untuk meneruskan pesan dari user ke grup secara otomatis.
 
 **Gunakan program ini secara bijak jika anda tidak ingin akun anda dibn oleh telegram**
