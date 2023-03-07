@@ -4,7 +4,10 @@ Bot telegram untuk meneruskan pesan dari user ke grup secara otomatis.
 **Gunakan program ini secara bijak jika anda tidak ingin akun anda dibn oleh telegram**
 
 # Instalasi termux dan python di android
-1. Download dan install apk termux terbaru dari [sini](https://f-droid.org/en/packages/com.termux/).
+1. Download dan install apk termux terbaru dari [sini](https://f-droid.org/en/packages/com.termux/). Pilih link seperti yng ada di gambar
+
+    ![](images/img1.png)
+
 2. Update dan upgrade repositori termux, ketik perintah berikut:
 
     ```
