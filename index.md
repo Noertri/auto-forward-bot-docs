@@ -17,7 +17,7 @@ Bot telegram untuk meneruskan pesan dari user ke grup secara otomatis.
     ```
     pkg install python
     ```
-4. Cek instalsi python dengan perintah:
+4. Cek instalasi python dengan perintah:
     ```
     python --version
     ```
