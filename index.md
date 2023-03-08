@@ -7,7 +7,7 @@ Bot telegram untuk meneruskan/forward pesan ke grup secara otomatis.
 ### Untuk hp android
 1. Termux.
 2. Python versi 3 keatas(rekomendasi versi 3.11+).
-3. Package telethon dan pendukungnya(sudah ada di file `requirements.txt`)
+3. Package telethon dan pendukungnya(sudah ada di file `requirements.txt`).
 4. Akun telegram aktif.
 5. Api id dan api hash dari telegram.
 6. Daftar link/nama/id grup.
