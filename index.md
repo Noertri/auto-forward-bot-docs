@@ -10,6 +10,7 @@ Bot telegram untuk meneruskan/crossposting pesan ke grup secara otomatis.
 3. Package telethon dan pendukungnya(sudah ada di file `requirements.txt`)
 4. Akun telegram aktif.
 5. Api id dan api hash dari telegram.
+6. Daftar link/nama/id grup.
 
 ## Instalasi termux dan python di android
 1. Download dan install apk termux terbaru dari [sini](https://f-droid.org/en/packages/com.termux/). Pilih link seperti yang ada di gambar
