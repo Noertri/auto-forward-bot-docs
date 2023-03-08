@@ -55,15 +55,15 @@ Bot telegram untuk meneruskan/forward pesan ke grup secara otomatis.
 
 3. Simpan file `auto-forward-bot.zip` di tempat yang mudah diakses (disarankan di folder download di penyimpanan internal).
 
-<img src="images/img3.png" style="display: block; margin: auto auto; max-height: 250px; max-width: 200px"/>
+    <img src="images/img3.png" style="display: block; margin: auto auto; max-height: 250px; max-width: 200px"/>
 
 4. Ekstrak file `auto-forward-bot.zip` tersebut.
 
-<img src="images/img4.png" style="display: block; margin: auto auto; max-height: 250px; max-width: 200px"/>
+    <img src="images/img4.png" style="display: block; margin: auto auto; max-height: 250px; max-width: 200px"/>
 
 5. Buka termux kemudian pindah ke folder `auto-forward-bot` dengan ketik perintah `cd storage/downloads/auto-forward-bot` kemudian tekan Enter.
 
-<img src="images/img5.png" style="display: block; margin: auto auto; max-height: 250px; max-width: 200px"/>
+    <img src="images/img5.png" style="display: block; margin: auto auto; max-height: 250px; max-width: 200px"/>
 
 6. Install package yang diperlukan dengan ketik perintah `pip install -r requirements.txt` atau `pip3 install -r requirements.txt`, ikuti semua proses sampai selesai. 
 
@@ -71,7 +71,7 @@ Bot telegram untuk meneruskan/forward pesan ke grup secara otomatis.
 
     1. Buka file `.env` di folder auto-forward-bot dengan text editor yang tersedia (di gambar menggunakan apk simple text editor) maka akan tampil seperti gambar dibawah, jika tidak terlihat buka setting/pengaturan di file manager kemudian cek pilihan tampilkan file tersembunyi.
 
-    <img src="images/img6.png" style="display: block; margin: auto auto; max-height: 250px; max-width: 200px"/>
+        <img src="images/img6.png" style="display: block; margin: auto auto; max-height: 250px; max-width: 200px"/>
 
     2. Salin dan tempel nilai api id dan api hash yang telah didapatkan ke file `.env` sesuai nilai masing-masing kemudian save files.
 
@@ -79,17 +79,17 @@ Bot telegram untuk meneruskan/forward pesan ke grup secara otomatis.
 
     1. Buka file `config.ini` di folder auto-forward-bot dengan text editor yang tersedia (di gambar menggunakan apk simple text editor) maka akan tampil seperti gambar dibawah, jika tidak terlihat buka setting/pengaturan di file manager kemudian cek pilihan tampilkan file tersembunyi.
 
-    <img src="images/img9.png" style="display: block; margin: auto auto; max-height: 250px; max-width: 200px"/>
+        <img src="images/img9.png" style="display: block; margin: auto auto; max-height: 250px; max-width: 200px"/>
 
     2. Masukkan link/nama/id grup utama sesuai gambar diatas (contoh main_chat=https://t.me/<your_main_group>) kemudian save file.
 
 9. Untuk menjalankan program, buka termux pindah ke folder `auto-forward-bot` caranya sesuai langkah nomor 5 (setiap akan menjalankn program ketik perintah tersebut), kemudian ketik perintah `python bot.py` atau `python3 bot.py`, jika tidak ada error maka akan muncul tampilan seperti gambar.
 
-<img src="images/img7.png" style="display: block; margin: auto auto; max-height: 250px; max-width: 200px"/>
+    <img src="images/img7.png" style="display: block; margin: auto auto; max-height: 250px; max-width: 200px"/>
 
 10. Ikuti semua proses yang muncul sampai seperti gambar dibawah.
 
-<img src="images/img11.png" style="display: block; margin: auto auto; max-height: 250px; max-width: 200px"/>
+    <img src="images/img11.png" style="display: block; margin: auto auto; max-height: 250px; max-width: 200px"/>
 
 11. Buka telegram kemudian tulis pesan di grup utama, program akan meneruskannya ke grup yang ada di daftar.
 
