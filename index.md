@@ -76,12 +76,31 @@ Bot telegram untuk meneruskan/crossposting pesan ke grup secara otomatis.
 
 8.  Atur chat/grup utama:
 
-    1. 
+    1. Buka file `config.ini` di folder auto-forward-bot dengan text editor yang tersedia (di gambar menggunakan apk simple text editor) maka akan tampil seperti gambar dibawah, jika tidak terlihat buka setting/pengaturan di file manager kemudian cek pilihan tampilkan file tersembunyi.
 
-9. Untuk menjalankan program, buka termux pindah ke folder `auto-forward-bot` caranya sesuai langkah nomor 5 (setiap akan menjalankn program ketik perintah tersebut), kemudian ketik perintah `python bot.py` atau `python3 bot.py`, jiak tidak ada error maka akan muncul tampilan seperti gambar.
+    <img src="images/img9.png" style="display: block; margin: auto auto; max-height: 250px; max-width: 200px"/>
+
+    2. Masukkan link/nama/id grup utama sesuai gambar diatas (contoh main_chat=https://t.me/<your_main_group>) kemudian save file.
+
+9. Untuk menjalankan program, buka termux pindah ke folder `auto-forward-bot` caranya sesuai langkah nomor 5 (setiap akan menjalankn program ketik perintah tersebut), kemudian ketik perintah `python bot.py` atau `python3 bot.py`, jika tidak ada error maka akan muncul tampilan seperti gambar.
 
 <img src="images/img7.png" style="display: block; margin: auto auto; max-height: 250px; max-width: 200px"/>
 
-10. Ikuti semua proses yang muncul sampai selesai.
+10. Ikuti semua proses yang muncul sampai seperti gambar dibawah.
 
-11. Untuk menambah daftar grup/chat buka file `grups.txt`
+<img src="images/img11.png" style="display: block; margin: auto auto; max-height: 250px; max-width: 200px"/>
+
+11. Buka telegram kemudian tulis pesan di grup utama, program akan meneruskannya ke grup yang ada di daftar.
+
+12. Untuk menambah/menghapus grup/chat buka file `grups.txt`, kemudian tambahkan link/nama/id grup yang baru, pastikan anda adalah member dari grup tersebut.
+
+## Dibuat oleh
+Author: Noertri
+
+Email: trinuruns@gmail.com
+
+WA/HP: +6285725397091
+
+Telegram: [Noertri](https://t.me/Noertri)
+
+Github: [Noertri](https://github.com/Noertri)
