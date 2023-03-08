@@ -1,7 +1,7 @@
 # auto-forwards-bot
 Bot telegram untuk meneruskan/crossposting pesan ke grup secara otomatis.
 
-**Gunakan program ini secara bijak jika anda tidak ingin akun anda dibn oleh telegram**
+**PERINGATAN: Gunakan program ini secara bijak jangan digunakan untuk spam jika anda tidak ingin akun anda diban oleh telegram**
 
 ## Yang dibutuhkan
 ### Untuk hp android
