@@ -81,7 +81,7 @@ Bot telegram untuk meneruskan/forward pesan ke grup secara otomatis.
 
         <img src="images/img9.png" style="display: block; margin: auto auto; max-height: 250px; max-width: 200px"/>
 
-    2. Masukkan link/nama/id grup utama sesuai gambar diatas (contoh main_chat=https://t.me/<your_main_group>) kemudian save file.
+    2. Masukkan link/nama/id grup utama sesuai gambar diatas (contoh main_chat=https://t.me/main_group_link) kemudian save file.
 
 9. Untuk menjalankan program, buka termux pindah ke folder `auto-forward-bot` caranya sesuai langkah nomor 5 (setiap akan menjalankn program ketik perintah tersebut), kemudian ketik perintah `python bot.py` atau `python3 bot.py`, jika tidak ada error maka akan muncul tampilan seperti gambar.
 
